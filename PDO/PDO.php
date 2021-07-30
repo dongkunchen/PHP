@@ -1,6 +1,6 @@
 <?php
 
-//單態例(單例??)
+//單態例(單例)
 class A{
 	private static $a = null;
 	private function __construct(){
